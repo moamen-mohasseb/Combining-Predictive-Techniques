@@ -1,5 +1,5 @@
 # Clustering, Prediction and Forecasting
-##(By Moamen Mohasseb)
+## (By Moamen Mohasseb)
 This project is the part of Udacity's Nanodegree program (Predictive Analytics for Business Nanodgeree)
 
 ## Task 1: Store Format for Existing Stores
